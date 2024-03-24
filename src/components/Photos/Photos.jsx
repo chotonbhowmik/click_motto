@@ -21,7 +21,7 @@ const Photos = ({ searchQuery }) => {
 
       if (response.ok) {
         const data = await response.json();
-        // console.log("Response data:", data);
+        console.log("Response data:", data);
         return data;
       } else {
         console.error("Failed to fetch data:", response.statusText);
