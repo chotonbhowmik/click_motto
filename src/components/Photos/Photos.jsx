@@ -73,7 +73,7 @@ const Photos = ({ searchQuery }) => {
           fetchVideos={fetchVideos}
         />
         <div>
-          <select className="select  max-w-xs">
+          <select className="  max-w-xs">
             <option disabled selected>
               Recommended
             </option>

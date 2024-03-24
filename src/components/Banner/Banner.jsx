@@ -12,7 +12,7 @@ const Banner = ({ onSearchQueryChange }) => {
     >
       <div className="absolute inset-0 opacity-50"></div>
       <div className="absolute inset-0 z-10 flex flex-col items-center justify-center text-white">
-        <h1 className="text-4xl font-bold mb-4 w-2/3">
+        <h1 className="text-4xl font-regular mb-4 w-2/3">
           Your local source of high quality images and videos directly from
           their creators
         </h1>

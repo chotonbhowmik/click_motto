@@ -77,7 +77,7 @@ const Header = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xllg:flex navbar-end lg:flex-2 lg:w-1/3">
+        <a className="text-xllg:flex navbar-end lg:flex-2 lg:w-1/3">
           <img src="../../../public/Group 289.png" alt="Logo"></img>
         </a>
       </div>
@@ -119,7 +119,7 @@ const Header = () => {
           </li>
 
           <li>
-            <a className="text-gray-500 text-base hover:bg-transparent hover:text-black border">
+            <a className="text-gray-500 text-base hover:bg-transparent hover:text-black border mr-2">
               Submit Photos
             </a>
           </li>
