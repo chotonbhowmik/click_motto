@@ -22,10 +22,15 @@ Refer to https://nodejs.org/en/ to install nodejs
 
 
 npm create vite@latest clickmotto -- --template react
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
+
 npm i -D daisyui@latest
+
 Live Application URL
+
 The Application is deployed in https://660018bdeb2037d3581faef3--cheerful-brioche-091b12.netlify.app/
 
 Click on the link to see the application
